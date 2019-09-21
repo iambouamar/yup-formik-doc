@@ -44,7 +44,7 @@ let addressFormData1 = {
 
  As you can see, the address_2 and timestamp fields are missing from here — but they are not required in our schema.
  
- ## isValid
+## isValid
  
  ```
  checkoutAddressSchema.isValid(addressFormData1).then(function(valid) {
