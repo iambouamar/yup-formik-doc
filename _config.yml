@@ -1,0 +1,11 @@
+# basic options
+title: My Yup and Formik Docs
+author: Bouamar ELOUAHHABI
+email: bouamar.wahabi@gmail.com
+description: My Yup and Formik Docs
+twitter_username: iambouamar
+github_username:  iambouamar
+
+# Build settings
+markdown: kramdown
+theme: minima
